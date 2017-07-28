@@ -5,12 +5,10 @@ body {
     align-items: center;
 }
 
-.renderer {
-    /*width: 50%;
-    height: 500px;*/
-}
-
 .canvas {
     background-color: black;
-    margin-top: 50px;
+}
+
+.message {
+    margin-top: 25px;
 }
